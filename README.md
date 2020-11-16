@@ -1,2 +1,1 @@
-# Medium-Notebooks
-Jupyter Notebooks for Medium Articles
+# Jupyter Notebooks for Medium Articles
