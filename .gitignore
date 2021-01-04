@@ -130,3 +130,5 @@ dmypy.json
 
 dp-cache/
 .vscode/
+
+**/data/
